@@ -10,18 +10,18 @@
 
 ## App Screenshots
 
-- ![home](/assets/images/home.png)
+<img src="/assets/images/buzzer.png" alt="home" height="200" width="200>
 
-  **Choose from different Types of Options**
+**Choose from different Types of Options**
 
-- ![alert](/assets/images/buzzer.png)
+<img src="/assets/images/buzzer.png" alt="home" height="200" width="200>
 
-  **Get Instant Drowsiness Alerts**
+**Get Instant Drowsiness Alerts**
 
-- ![map](/assets/images/map.png)
+<img src="/assets/images/map.png" alt="map" height="200" width="200>
 
-  **Get Precise Navigation From Google Maps**
+**Get Precise Navigation From Google Maps**
 
-- ![search](/assets/images/search.png)
+<img src="/assets/images/search.png" alt="search" height="200" width="200>
 
-  **Instant Search For Various Locations**
+**Instant Search For Various Locations**
